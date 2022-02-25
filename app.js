@@ -1,12 +1,12 @@
 /*
  * Module dependencies
  */
-var express = require('express')
+let express = require('express')
   , stylus = require('stylus')
   , nib = require('nib')
 
 
-var app = express()
+let app = express()
 
 function compile(str, path) {
   return stylus(str)

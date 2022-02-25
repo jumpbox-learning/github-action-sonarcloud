@@ -1,6 +1,8 @@
 # DevSecOps Proen Cloud
 DevSecOps Proen Cloud
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=kubeops-learning_github-action-sonarcloud)
+
 Build
 -----
 
